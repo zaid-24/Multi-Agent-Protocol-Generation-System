@@ -1,0 +1,11 @@
+langgraph
+langgraph-checkpoint-sqlite
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+alembic
+pytest
+pytest-asyncio
+openai
+python-dotenv
