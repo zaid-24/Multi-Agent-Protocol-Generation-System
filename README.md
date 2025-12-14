@@ -1,6 +1,5 @@
 # 🧠 Cerina Protocol Foundry
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/backend-FastAPI%20%7C%20LangGraph-green)
 ![React](https://img.shields.io/badge/frontend-React%20%7C%20TypeScript-blue)
 ![Status](https://img.shields.io/badge/status-Active-success)
@@ -19,14 +18,12 @@ Cerina Protocol Foundry is an intelligent multi-agent system that autonomously d
 
 ## 🖼️ Visual Tour
 
-> Replace these placeholders with real screenshots from your UI.
-
 ### 1. Dashboard – Session Overview
 
 *A centralized hub for starting and inspecting protocol design sessions.*
+<img width="1759" height="649" alt="image" src="https://github.com/user-attachments/assets/6cda0fb6-7a0d-4aba-ad07-96d2ddeb0ebc" />
 
-![Dashboard Screenshot](docs/images/dashboard.png)  
-<sub>_Suggested: `/sessions` page showing “Start New Protocol Design” and Recent Sessions._</sub>
+<img width="1690" height="858" alt="image" src="https://github.com/user-attachments/assets/c8e95dab-f594-4568-85a9-235ce357f3e4" />
 
 ---
 
@@ -34,17 +31,15 @@ Cerina Protocol Foundry is an intelligent multi-agent system that autonomously d
 
 *Real-time visibility into how specialized agents assess the current draft.*
 
-![Agent Board Screenshot](docs/images/agent-board.png)  
-<sub>_Suggested: Session Detail page with Safety, Empathy, and Clinical cards on the right._</sub>
+<img width="1828" height="856" alt="image" src="https://github.com/user-attachments/assets/d0da019e-8b89-490a-8933-157cdb886447" />
+
 
 ---
 
 ### 3. Human-in-the-Loop Review
 
 *Where clinicians make the final call.*
-
-![Review Interface Screenshot](docs/images/review.png)  
-<sub>_Suggested: “AWAITING_HUMAN” state with protocol draft, metrics, and action buttons._</sub>
+<img width="1855" height="796" alt="image" src="https://github.com/user-attachments/assets/7cfc26e3-192c-4944-bd88-a0501ca256e6" />
 
 ---
 
@@ -377,24 +372,6 @@ cerina-protocol-foundry/
 
 - **Performance-Aware**  
   The transition from sequential to parallel critics is a deliberate optimization to keep the system practical even as prompts become richer.
-
----
-
-## 📸 Screenshot Snippets (Optional)
-
-Update these sections with real images in your repo:
-
-```markdown
-<!-- Home / New Session form -->
-![Home - New Session](docs/images/dashboard.png)
-
-<!-- Session Detail with draft + agent board -->
-![Session Detail](docs/images/session-detail.png)
-
-<!-- Stats card / charts -->
-![Stats Overview](docs/images/stats.png)
-```
-
 
 ---
 
