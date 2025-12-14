@@ -227,8 +227,8 @@ pip install -r requirements.txt
 Create a `.env` file (or edit the existing one):
 
 ```env
-GEMINI_API_KEY=your_api_key_here
-# add any other required settings
+GROQ_API_KEY==your_api_key_here
+# add your GROQ API Key
 ```
 
 Run the FastAPI server:
